@@ -13,4 +13,4 @@ I have created a parameter (_titled 'Pick a Metric'_) along with several filters
 * Continent
 
 ## Credits
-The dataset is sourced from the [public repository](https://github.com/prathaM27092000/Airline-Dashboard/tree/main/main) of [Mo Chen](https://github.com/prathaM27092000).
+The dataset is sourced from the [public repository](https://github.com/prathaM27092000/Airline-Dashboard/tree/main/main) of [Prathamesh G.](https://github.com/prathaM27092000).
