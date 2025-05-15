@@ -13,4 +13,4 @@ I have created a parameter (_titled 'Pick a Metric'_) along with several filters
 * Continent
 
 ## Credits
-The dataset is sourced from the [public repository](https://github.com/mochen862/tableau-end-to-end-portfolio-project) of [Mo Chen](https://github.com/mochen862).
+The dataset is sourced from the [public repository](https://github.com/prathaM27092000/Airline-Dashboard/tree/main/main) of [Mo Chen](https://github.com/prathaM27092000).
