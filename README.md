@@ -2,7 +2,7 @@
 ## Project Description
 This Tableau project highlights the performance of various factors that wield significant influence over customer experience with British Airlines. 
 
-![image](https://github.com/Rie-Loe/british-airways-review-dashboard/assets/84235495/64e94f47-9be8-486a-ae8a-3078f13e1560)
+![view](https://github.com/prathaM27092000/Airline-Dashboard/blob/main/airline%20Dashboard%20.png "Dashboard")
 
 ## Navigation
 I have created a parameter (_titled 'Pick a Metric'_) along with several filters to dynamically update the figures and trends shown in the KPI cards and data visualizations on the dashboard. These filters include:
