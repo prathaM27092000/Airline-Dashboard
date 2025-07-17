@@ -1,5 +1,5 @@
 # British Airways Review Dashboard
-![view](https://github.com/prathaM27092000/Airline-Dashboard/blob/main/airline%20Dashboard%20.png "Dashboard")
+![view](AirlineDashboard.png "Dashboard")
 
 # ✈️ British Airways Review Dashboard
 
@@ -57,9 +57,6 @@ This project aims to analyze passenger reviews and provide actionable insights i
 ## 🖼️ Dashboard Preview
 
 > [Click here to view the interactive dashboard on Tableau Public](https://github.com/prathaM27092000/Airline-Dashboard)
-
-![Dashboard Screenshot](https://github.com/prathaM27092000/Airline-Dashboard/blob/main/dashboard-preview.png)
-
 ---
 
 ## 🔗 Repository Structure
