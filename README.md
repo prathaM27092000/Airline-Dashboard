@@ -1,7 +1,7 @@
-# British Airways Review Dashboard
+# ✈️ British Airways Review Dashboard
+
 ![view](AirlineDashboard.png "Dashboard")
 
-# ✈️ British Airways Review Dashboard
 
 A data visualization project built with Tableau, uncovering customer satisfaction insights from over 1,300+ British Airways reviews across flights, seats, aircraft, and destinations.
 
