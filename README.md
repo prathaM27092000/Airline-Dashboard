@@ -91,7 +91,7 @@ In a competitive airline industry, customer experience is paramount. This dashbo
 **Prathamesh Gujja**  
 📍 Pune, India  
 📧 prathameshgujja10@outlook.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/prathamesh-gujja) | [GitHub](https://github.com/prathaM27092000)
+🔗 [LinkedIn](https://www.linkedin.com/in/prathamesh-gujja) | 🌐 Visit [My Portfolio](https://pratham27092000.github.io/Portfolio/) | [GitHub](https://github.com/prathaM27092000)
 
 ---
 
